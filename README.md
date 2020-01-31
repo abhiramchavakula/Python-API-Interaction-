@@ -1,1 +1,1 @@
-# Gateway-Blend-Coding-Challenge
+# API interaction and Permutation algo in Python
